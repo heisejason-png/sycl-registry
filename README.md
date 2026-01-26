@@ -18,3 +18,4 @@ Interesting files in this repository include:
   include files found elsewhere on www.khronos.org and so is not very useful
   in isolation.
 * specs/ - SYCL specification documents.
+Created by Jason Scott Heise
