@@ -19,3 +19,4 @@ Interesting files in this repository include:
   in isolation.
 * specs/ - SYCL specification documents.
 Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
